@@ -1,0 +1,2 @@
+C:\NET_Projects_Iurii\Ruedas_motor\Ruedas_motor\bin\Debug\Ruedas_motor.exe.config
+C:\NET_Projects_Iurii\TPs\TP2\Ruedas_motor\Ruedas_motor\bin\Debug\Ruedas_motor.exe.config
